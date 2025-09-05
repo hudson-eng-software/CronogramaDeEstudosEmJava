@@ -4,10 +4,12 @@ Este repositório contém um **plano de estudos estruturado em Java**, começand
 
 ## 🏷️ Badges  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![POO](https://img.shields.io/badge/Paradigma-POO-blue?style=for-the-badge)   
+![POO](https://img.shields.io/badge/Paradigma-POO-blue?style=for-the-badge)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
@@ -50,4 +52,25 @@ Este repositório contém um **plano de estudos estruturado em Java**, começand
 ---
 
 ### Semana 7 – Banco de Dados com JDBC  
-- Conectar ao **MySQL/Pos**
+- Conectar ao **MySQL/PostgreSQL**  
+- CRUD básico (Create, Read, Update, Delete)  
+- Exercício: Sistema de cadastro de produtos com JDBC.  
+
+---
+
+### Semana 8 – Frameworks e Projeto Final  
+- Introdução ao **Spring Boot** e **MVC**  
+- Exercício: API REST simples com CRUD de usuários.  
+
+---
+
+## 📌 Dicas de Estudo
+- Estude **2h por dia** ou **10h semanais**.  
+- Faça **mini-projetos** em cada semana.  
+- Use **GitHub** para versionar os códigos.  
+- Revise sempre com **exercícios práticos**.  
+
+---
+
+![Dev Hudson](https://img.shields.io/badge/Dev-Hudson-blue?style=for-the-badge&logo=java&logoColor=white)
+
